@@ -1,0 +1,12 @@
+# Ignore PyTorch shared libraries that may be large
+**/torch/lib/*.so
+.venv/**/torch/lib/*.so
+
+# Ignore downloaded dataset archives
+data/*.tar.gz
+data/*.tgz
+data/*.zip
+
+# Common caches
+__pycache__/
+*.py[cod]
