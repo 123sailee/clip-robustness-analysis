@@ -1,0 +1,22 @@
+{
+  "base": {
+    "accuracy": 0.883,
+    "mean_cosine": 0.2574692368507385,
+    "relative_drop": 0.0
+  },
+  "synonym": {
+    "accuracy": 0.888,
+    "mean_cosine": 0.25593188405036926,
+    "relative_drop": -0.005662514156285396
+  },
+  "short": {
+    "accuracy": 0.8952,
+    "mean_cosine": 0.27028584480285645,
+    "relative_drop": -0.01381653454133634
+  },
+  "random_delete": {
+    "accuracy": 0.6446,
+    "mean_cosine": 0.247902974486351,
+    "relative_drop": 0.2699886749716875
+  }
+}

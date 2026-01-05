@@ -1,0 +1,24 @@
+{
+  "base_template": "a photo of a {cls}.",
+  "length_variations": [
+    "a photo of a {cls}.",
+    "a high-resolution photo of a {cls} taken outdoors.",
+    "an image of the {cls} in its natural environment, photographed professionally.",
+    "a close-up photograph of the {cls} showing details."
+  ],
+  "synonyms": {
+    "dog": ["canine", "hound"],
+    "cat": ["feline"],
+    "truck": ["lorry", "heavy vehicle"],
+    "car": ["automobile", "vehicle"],
+    "airplane": ["aircraft", "plane"],
+    "ship": ["boat", "vessel"],
+    "horse": ["steed"]
+  },
+  "grammatical_noise_examples": [
+    "a photo of a {cls}!!!",
+    "photo of {cls}",
+    "a photo of a  {cls}",
+    "a photo, of a {cls}"
+  ]
+}
