@@ -10,3 +10,7 @@ data/*.zip
 # Common caches
 __pycache__/
 *.py[cod]
+
+# Ignore entire virtual environment and data directories (local only)
+.venv/
+data/
